@@ -34,3 +34,4 @@ function updateElapsedTime() {
 }
 
 setInterval(updateElapsedTime, 1000);
+
